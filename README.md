@@ -36,5 +36,4 @@ Done using the Blum Blum Shub algorithm.
   
   
   
-Enjoy!
- 
+## Enjoy!
