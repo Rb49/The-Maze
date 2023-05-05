@@ -20,7 +20,7 @@ A simple assembly x86 maze generator game
 
 ### Maze generation
 
-The maze is generated using an optimized prim algorithm, therefore it is always solveable.
+The maze is generated using an optimized prim algorithm, therefore it is always solvable.
 
 ### Solving 
 
@@ -32,7 +32,8 @@ Done using the Blum Blum Shub algorithm.
 
   #### Limitations
 
-  Requirs 2 different relativly big prime numbers whose multiplication is smaller than the board array size, resulting in ```861``` different generateable mazes.
+  Requires 2 different relatively big prime numbers whose multiplication is smaller than the board array size, resulting in ```861``` different generatable mazes.
+  
   
   
   
