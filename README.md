@@ -16,7 +16,7 @@ A simple assembly x86 maze generator game.
   - Move the yellow dot from the upper-left corner to the lower-right corner using the WASD keys.
   - To quit the game before completing the maze click the return button and the correct path will appear.
 
-# Algorithm
+# Algorithms
 
 ### Maze generation
 
