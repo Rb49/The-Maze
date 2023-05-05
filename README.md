@@ -1,2 +1,2 @@
 # The-Maze
-A simple x86 assembly maze generator game
+A simple assembly x86 maze generator game
