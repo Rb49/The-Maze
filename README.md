@@ -22,17 +22,21 @@ A simple assembly x86 maze generator game.
 
   The maze is generated using an optimized prim algorithm, therefore it is always solvable.
 
+
 ### Solving 
 
   Solving the maze is done using dead-end filling.
+
 
 ### Random numbers generation
 
   Done using the Blum Blum Shub algorithm.
 
+
   #### Limitations
 
    Requires 2 different relatively big prime numbers whose multiplication is smaller than the board array size, resulting in ```861``` different generatable mazes.
+  
   
   
   
