@@ -1,9 +1,3 @@
-;Name: Roey Borovsky
-;School: De Shalit High School
-;Teacher: Guy Shenhav
-;Year: 2022
-;Id: 216473595
-
 IDEAL
 MODEL small
 STACK 100h
