@@ -7,7 +7,7 @@ A simple assembly x86 maze generator game.
     Download the bmps from game_images to support the GUI.
     Download DOSBox 0.74+.
     Download TASM (turbo assembler).
-    Place the bpms and the game asm file in the tasm/bin folder.
+    Place the bmps and the game asm file in the tasm/bin folder.
     Run base.asm from DOSBox.
     
 # How to play
